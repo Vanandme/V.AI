@@ -6,7 +6,7 @@ Vivaan Anand (The author) & Aarav Katariya
 
 ## Want to become a contributor?
 
-You need to **email mallife@vanand.work.gd** and kindly request the author. Your contributor request must be **perfectly formal** and **not have any informalities**. (You **do not need to** make it look like a contract or legal document.)
+You need to **email mallife@vanand.work.gd or aarav@iveentertainment.work.gd** and kindly request the author. Your contributor request must be **perfectly formal** and **not have any informalities**. (You **do not need to** make it look like a contract or legal document.)
 
 **Within twenty-four hours**, I will reply to you with a LICENCE.TXT file to show what licence the program uses.
 
