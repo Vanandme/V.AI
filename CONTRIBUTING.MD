@@ -3,6 +3,7 @@
 Our countributors for **V.AI** are:
 
 Vivaan Anand (The author.)
+
 Aarav Katariya
 
 ## If you want to become a contributor?
